@@ -8,13 +8,11 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "axios": "^1.7.0",
+    "axios": "^1.10.0",
     "cheerio": "^1.0.0-rc.12",
     "cors": "^2.8.5",
     "dotenv": "^16.4.5",
-    "express": "^4.19.0",
-    "openai": "^4.38.2",
-    "@dashscope/server-sdk": "^1.1.0"
+    "express": "^4.19.0"
   },
   "devDependencies": {
     "nodemon": "^3.0.1"
